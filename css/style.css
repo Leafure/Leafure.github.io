@@ -1,0 +1,62 @@
+@font-face {
+    font-family: "minecraft";
+    font-style: normal;
+    font-weight: 400;
+    src: local("minecraft"),
+         url("/fonts/minecraft.ttf") format("ttf");
+}
+
+body {
+    background-color: #111111;
+    font-family: "minecraft", minecraft;
+}
+
+.logotype {
+    height: 150px;
+    width: 150px;
+    margin: auto;
+    display: block;
+    margin: 0 auto;
+    border: none;
+}
+
+.heading {
+    font-size: 36px;
+    color: white;
+    margin-top: 25px;
+}
+
+.version {
+    font-size: 14px;
+    color: #BBBBBB;
+    margin-top: -10px;
+}
+
+.play {
+    margin-top: 40px;
+}
+
+.effects {
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+}
+
+.notify {
+    font-family: "minecraft", minecraft;
+    font-size: 14px;
+    color: #BBBBBB;
+    margin-top: 210px;
+}
+
+.info {
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    text-align: center;
+}
