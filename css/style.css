@@ -142,10 +142,10 @@ body {
     width: 430px;
     height: 120px;
     left: 505px;
-    top: 213px;
+    top: 210px;
     
     font-size: 24px;
-    line-height: 24px;
+    line-height: 27px;
     text-align: center;
     
     color: #FFFFFF;
@@ -165,8 +165,8 @@ body {
     position: absolute;
     width: 476px;
     height: 28px;
-    left: 770px;
-    top: 779px;
+    left: 795px;
+    top: 781px;
 
     font-size: 28px;
     line-height: 28px;
@@ -176,13 +176,13 @@ body {
 
 .bon_text {
     position: absolute;
-    width: 500px;
+    width: 450px;
     height: 216px;
-    left: 770px;
-    top: 822px;
+    left: 795px;
+    top: 824px;
     
     font-size: 20px;
-    line-height: 20px;
+    line-height: 23px;
     
     color: #FFFFFF;
 }
@@ -201,8 +201,8 @@ body {
     position: absolute;
     width: 511px;
     height: 28px;
-    left: 170px;
-    top: 1329px;
+    left: 195px;
+    top: 1325px;
     
     font-size: 28px;
     line-height: 28px;
@@ -212,13 +212,13 @@ body {
 
 .btw_text {
     position: absolute;
-    width: 500px;
+    width: 450px;
     height: 216px;
-    left: 170px;
-    top: 1372px;
+    left: 195px;
+    top: 1368px;
 
     font-size: 20px;
-    line-height: 20px;
+    line-height: 23px;
     
     color: #FFFFFF;
 }
@@ -237,8 +237,8 @@ body {
     position: absolute;
     width: 441px;
     height: 28px;
-    left: 770px;
-    top: 1879px;
+    left: 795px;
+    top: 1875px;
     
     font-size: 28px;
     line-height: 28px;
@@ -248,13 +248,13 @@ body {
 
 .bth_text {
     position: absolute;
-    width: 500px;
+    width: 450px;
     height: 216px;
-    left: 770px;
-    top: 1922px;
+    left: 795px;
+    top: 1918px;
     
     font-size: 20px;
-    line-height: 20px;
+    line-height: 23px;
     
     color: #FFFFFF;
 }
