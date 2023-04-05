@@ -6,12 +6,18 @@
          url("/fonts/minecraft.ttf") format("ttf");
 }
 
+@keyframes show {
+    from {opacity: 0;} to {opacity: 1;}
+}
+
 body {
     background-color: #111111;
     font-family: "minecraft", minecraft;
 }
 
 .header { /* Header block. */
+    animation: show 2s;
+
     position: relative;
     width: 1440px;
     height: 75px;
@@ -96,6 +102,8 @@ body {
 }
 
 .info { /* Main block. */
+    animation: show 4s;
+
     position: relative;
     width: 1440px;
     height: 2000px;
@@ -251,6 +259,8 @@ body {
 }
 
 .footer { /* Footer block. */
+    animation: show 8s;
+
     position: relative;
     width: 1440px;
     height: 275px;
