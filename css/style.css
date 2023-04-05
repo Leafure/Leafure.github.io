@@ -116,9 +116,10 @@ body {
 }
 
 .bma_img {
+
     position: absolute;
     width: 1100px;
-    height: 500px;
+    height: 550px;
     left: 175px;
     top: 63px;
 }
@@ -128,7 +129,7 @@ body {
     width: 165px;
     height: 32px;
     left: 637px;
-    top: 129px;
+    top: 230px;
     
     font-size: 32px;
     line-height: 32px;
@@ -141,7 +142,7 @@ body {
     width: 430px;
     height: 120px;
     left: 505px;
-    top: 176px;
+    top: 247px;
     
     font-size: 24px;
     line-height: 24px;
