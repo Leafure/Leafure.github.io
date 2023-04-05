@@ -1,7 +1,5 @@
 @font-face {
     font-family: "minecraft";
-    font-style: normal;
-    font-weight: 400;
     src: local("minecraft"),
          url("/fonts/minecraft.ttf") format("ttf");
 }
