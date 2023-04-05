@@ -2,6 +2,8 @@
     font-family: "minecraft";
     src: local("minecraft"),
          url("/fonts/minecraft.ttf") format("ttf");
+    font-style: normal;
+    font-weight: normal;
 }
 
 @keyframes show {
