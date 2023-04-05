@@ -109,18 +109,18 @@ body {
 
 .bma_img {
     position: absolute;
-    width: 750px;
+    width: 1100px;
     height: 500px;
-    left: 520px;
-    top: 60px;
+    left: 175px;
+    top: 138px;
 }
 
 .bma_heading {
     position: absolute;
-    width: 544px;
+    width: 165px;
     height: 32px;
-    left: 169px;
-    top: 126px;
+    left: 637px;
+    top: 229px;
     
     font-size: 32px;
     line-height: 32px;
@@ -130,13 +130,14 @@ body {
 
 .bma_text {
     position: absolute;
-    width: 544px;
-    height: 252px;
-    left: 169px;
-    top: 169px;
+    width: 430px;
+    height: 120px;
+    left: 505px;
+    top: 276px;
     
-    font-size: 28px;
-    line-height: 28px;
+    font-size: 24px;
+    line-height: 24px;
+    text-align: center;
     
     color: #FFFFFF;
 }
@@ -171,8 +172,8 @@ body {
     left: 770px;
     top: 822px;
     
-    font-size: 24px;
-    line-height: 24px;
+    font-size: 20px;
+    line-height: 20px;
     
     color: #FFFFFF;
 }
@@ -207,8 +208,8 @@ body {
     left: 170px;
     top: 1372px;
 
-    font-size: 24px;
-    line-height: 24px;
+    font-size: 20px;
+    line-height: 20px;
     
     color: #FFFFFF;
 }
@@ -243,8 +244,8 @@ body {
     left: 770px;
     top: 1922px;
     
-    font-size: 24px;
-    line-height: 24px;
+    font-size: 20px;
+    line-height: 20px;
     
     color: #FFFFFF;
 }
@@ -253,10 +254,16 @@ body {
     position: relative;
     width: 1440px;
     height: 275px;
-    left: 0px;
-    top: 300px;
+    top: 25px;
     
     margin: auto;
+}
+
+.footer_inner {
+    position: relative;
+    height: 275px;
+    top: 300px;
+
     background: #111111;
     box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
