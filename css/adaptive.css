@@ -219,3 +219,15 @@
         text-align: center;
     }
 }
+
+@media screen and (max-width: 400px) {
+    .header {
+        margin: 0px;
+    }
+    .info {
+        margin: 0px;
+    }
+    .footer {
+        margin: 0px;
+    }
+}
