@@ -3,19 +3,23 @@
         width: 400px;
     }
     .link_main {
-        opacity: 0;
+        left: 0px;
+        display: none;
     }
     .link_donate {
-        opacity: 0;
+        left: 0px;
+        display: none;
     }
     .link_discord {
-        opacity: 0;
+        left: 0px;
+        display: none;
     }
     .play {
-        opacity: 0;
+        left: 0px;
+        display: none;
     }
     .m_menu {
-        opacity: 1;
+        visibility: visible;
     }
     .info {
         width: 400px;

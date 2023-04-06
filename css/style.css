@@ -110,7 +110,7 @@ body {
 }
 
 .m_menu {
-    opacity: 0;
+    visibility: hidden;
     position: absolute;
     width: 66px;
     height: 24px;
