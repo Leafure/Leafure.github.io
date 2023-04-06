@@ -1,9 +1,13 @@
 @font-face {
-    font-family: "minecraft";
-    src: local("minecraft"),
-         url("/fonts/minecraft.ttf") format("ttf");
-    font-style: normal;
+    font-family: 'Minecraft Rus';
+    src: url('Minecraft.eot');
+    src: local('Minecraft Rus Regular'), local('Minecraft'),
+        url('Minecraft.eot?#iefix') format('embedded-opentype'),
+        url('Minecraft.woff2') format('woff2'),
+        url('Minecraft.woff') format('woff'),
+        url('Minecraft.ttf') format('truetype');
     font-weight: normal;
+    font-style: normal;
 }
 
 @keyframes show {
@@ -24,6 +28,10 @@ body {
     left: 0px;
     top: 0px;
 
+    font-family: 'Minecraft Rus';
+    font-weight: normal;
+    font-style: normal;
+
     margin: auto;
     background: #111111;
 }
@@ -42,7 +50,7 @@ body {
     height: 24px;
     left: 85px;
     top: 11px;
-
+    
     font-size: 24px;
     line-height: 24px;
 
@@ -109,6 +117,10 @@ body {
     height: 2000px;
     left: 0px;
     top: 0px;
+
+    font-family: 'Minecraft Rus';
+    font-weight: normal;
+    font-style: normal;
 
     margin: auto;
     background: #111111;
@@ -266,6 +278,10 @@ body {
     width: 1440px;
     height: 275px;
     top: 25px;
+
+    font-family: 'Minecraft Rus';
+    font-weight: normal;
+    font-style: normal;
     
     margin: auto;
 }
