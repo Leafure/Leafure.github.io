@@ -1,14 +1,120 @@
 @media screen and (max-width: 1440px) {
     .header {
+        width: 400px;
     }
     .link_main {
+        opacity: 0;
     }
     .link_donate {
+        opacity: 0;
     }
     .link_discord {
+        opacity: 0;
+    }
+    .play {
+        opacity: 0;
+    }
+    .m_menu {
+        opacity: 1;
     }
     .info {
+        width: 400px;
+    }
+    .bma_img {
+        width: 300px;
+        height: 150px;
+        left: 50px;
+        top: 37px;
+    }
+    .bma_heading {
+        width: 144px;
+        height: 28px;
+        left: 129px;
+        top: 80px;
+
+        font-size: 28px;
+        line-height: 28px;
+    }
+    .bma_text {
+        width: 323px;
+        height: 120px;
+        left: 38px;
+        top: 200px;
+
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .bon_img {
+        width: 300px;
+        height: 210.42px;
+        left: 50px;
+        top: 445px;
+    }
+    .bon_heading {
+        width: 300px;
+        height: 56px;
+        left: 50px;
+        top: 689px;
+
+        text-align: center;
+    }
+    .bon_text {
+        width: 300px;
+        height: 220px;
+        left: 50px;
+        top: 770px;
+
+        text-align: center;
+    }
+    .btw_img {
+        width: 300px;
+        height: 210.42px;
+        left: 50px;
+        top: 1191px;
+    }
+    .btw_heading {
+        width: 300px;
+        height: 56px;
+        left: 50px;
+        top: 1435px;
+
+        text-align: center;
+    }
+    .btw_text {
+        width: 300px;
+        height: 220px;
+        left: 50px;
+        top: 1516px;
+
+        text-align: center;
+    }
+    .bth_img {
+        width: 300px;
+        height: 210.42px;
+        left: 50px;
+        top: 1957px;
+    }
+    .bth_heading {
+        width: 300px;
+        height: 56px;
+        left: 50px;
+        top: 2201px;
+
+        text-align: center;
+    }
+    .bth_text {
+        width: 300px;
+        height: 220px;
+        left: 50px;
+        top: 2282px;
+
+        text-align: center;
+    }
+    .footer_inner {
+        top: 675px;
     }
     .footer {
+        width: 400px;
+        top: 400px;
     }
 }
