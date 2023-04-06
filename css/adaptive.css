@@ -115,6 +115,104 @@
     }
     .footer {
         width: 400px;
+        height: 675px;
         top: 400px;
+    }
+    .brand_logo {
+        width: 100px;
+        height: 100px;
+        left: 86px;
+        top: 34px;
+    }
+    .brand_name {
+        width: 164px;
+        height: 32px;
+        left: 54px;
+        top: 143px;
+        
+        font-size: 32px;
+        line-height: 32px;
+    }
+    .rm_main {
+        width: 147px;
+        height: 28px;
+        left: 62px;
+        top: 225px;
+        
+        font-size: 28px;
+        line-height: 28px;
+    }
+    .rm_donate {
+        width: 105px;
+        height: 28px;
+        left: 62px;
+        top: 278px;
+        
+        font-size: 28px;
+        line-height: 28px;
+    }
+    .rm_discord {
+        width: 133px;
+        height: 28px;
+        left: 62px;
+        top: 331px;
+        
+        font-size: 28px;
+        line-height: 28px;
+    }
+    .number {
+        width: 256px;
+        height: 20px;
+        left: 54px;
+        top: 409px;
+        
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .mail {
+        width: 293px;
+        height: 18px;
+        left: 54px;
+        top: 454px;
+        
+        font-size: 18px;
+        line-height: 18px;
+    }
+    .adress {
+        width: 288px;
+        height: 36px;
+        left: 54px;
+        top: 497px;
+        
+        font-size: 18px;
+        line-height: 18px;
+    }
+    .sc_vk {
+        width: 75px;
+        height: 75px;
+        left: 272px;
+        top: 47px;
+    }
+    .sc_tg {
+        width: 75px;
+        height: 75px;
+        left: 272px;
+        top: 172px;
+    }
+    .sc_dc {
+        width: 75px;
+        height: 75px;
+        left: 272px;
+        top: 297px;
+    }
+    .copyright {
+        width: 330px;
+        height: 60px;
+        left: 35px;
+        top: 583px;
+        
+        font-size: 15px;
+        line-height: 15px;
+        text-align: center;
     }
 }
