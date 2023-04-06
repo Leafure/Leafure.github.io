@@ -2,6 +2,9 @@
     .header {
         width: 350px;
     }
+    .name {
+        display: none;
+    }
     .link_main {
         display: none;
     }
